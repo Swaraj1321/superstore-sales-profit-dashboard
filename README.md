@@ -20,7 +20,8 @@ The primary objective of this project is to analyze enterprise sales data to ide
 *Provides a high-level summary of total revenue, regional mapping, and sub-category performance.*
  
 ![Sales Overview](screenshots/sales_overview.png)
- 
+![image alt](https://github.com/Swaraj1321/superstore-sales-profit-dashboard/blob/235fe25ed83df6c8940297785e488bf6fceb6ad3/sales_overview.png)
+  
 ### Page 2: Profit Analysis
 *Deep-dive exploratory analysis utilizing AI visuals like the Decomposition Tree to map root causes of profit loss.*
  
